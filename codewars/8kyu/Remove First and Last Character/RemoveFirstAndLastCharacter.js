@@ -1,0 +1,1 @@
+removeChar = str => str.split('').slice(1, -1).join('')
