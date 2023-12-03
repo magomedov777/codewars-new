@@ -1,0 +1,1 @@
+noSpace = x => x.split(' ').join('')
