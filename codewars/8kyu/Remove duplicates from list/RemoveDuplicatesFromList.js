@@ -1,0 +1,1 @@
+distinct = a => Array.from(new Set(a))
