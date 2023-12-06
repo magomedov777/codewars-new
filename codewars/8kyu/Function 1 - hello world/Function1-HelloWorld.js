@@ -1,0 +1,1 @@
+greet = (hi = 'hello world!') => hi
