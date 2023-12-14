@@ -1,0 +1,1 @@
+points = games => games.reduce((a,b) => a += b[0] > b[2] ? 3 : b[0] < b[2] ? 0 : 1, 0)
