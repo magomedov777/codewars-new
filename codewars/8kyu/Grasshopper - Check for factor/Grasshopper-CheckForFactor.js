@@ -1,0 +1,1 @@
+checkForFactor = (base, factor) => base / factor % 1 === 0 ? true : false
