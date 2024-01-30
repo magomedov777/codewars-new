@@ -1,0 +1,1 @@
+printArray = (array) => String(array);
