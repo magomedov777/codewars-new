@@ -1,0 +1,1 @@
+getASCII = (c) => c.charCodeAt();
